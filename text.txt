@@ -1,0 +1,15 @@
+ <img class="w-full h-full object-cover absolute z-0 top-0 left-0" src="./assets/gradient-wallpaper-0050.png"
+                alt="">
+
+
+            <nav class="w-full h-20 flex items-center flex-col p-6 gap-2 z-10">
+                <img class="h-8 " src="./assets/logo.svg" alt="">
+                <h1 class="text-3xl font-semibold">TechSavvy</h1>
+            </nav>
+
+            <div class="hero z-10">
+                <h1>Building Next-Gen Digital Experiences</h1>
+                <p>We design and develop custom websites, apps, and user interfaces that drive growth and impact.</p>
+                <button></button>
+
+            </div>
